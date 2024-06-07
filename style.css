@@ -136,13 +136,13 @@ h1 {
 }
 .comment p {
     margin: 0 5px;
+    text-align: center;
 }
 
 .sub-title {
     font-size: 1.2rem;
     text-decoration: underline 1px #432 solid;
-    text-align: left;
-    padding-left: 15px;
+    text-align: center;
 }
 
 .skill {
